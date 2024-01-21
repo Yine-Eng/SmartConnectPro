@@ -1,0 +1,56 @@
+.root {
+  -fx-background-color: gold;
+}
+
+#dataPrompt {
+  -fx-font-size: 10pt;
+  -fx-font-weight: bold;
+  -fx-padding: 1pt;
+  -fx-font-style: italic;
+}
+
+#dataVBox {
+  -fx-spacing: 1pt;
+}
+
+#phonePrompt {
+  -fx-font-size: 10pt;
+  -fx-font-weight: bold;
+  -fx-padding: 1pt;
+  -fx-font-style: italic;
+}
+
+#phoneVBox {
+  -fx-spacing: 1pt;
+}
+
+#optionsDescriptor {
+  -fx-font-size: 10pt;
+  -fx-font-weight: bold;
+  -fx-padding: 1pt;
+  -fx-font-style: italic;
+}
+
+#optionsVBox {
+  -fx-spacing: 1pt;
+}
+
+.label {
+  -fx-font-family: serif;
+  -fx-font-size: 10pt;
+  -fx-font-style: italic;
+}
+
+.radio-button {
+  -fx-font-size: 10pt;
+}
+
+.checkbox {
+  -fx-font-size: 10pt;
+}
+
+.button {
+  -fx-font-size: 10pt;
+  -fx-background-color: green;
+  -fx-text-fill: white;
+}
